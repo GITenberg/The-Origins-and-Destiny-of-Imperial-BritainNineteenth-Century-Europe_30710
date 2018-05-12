@@ -1,0 +1,36 @@
+_repo: The-Origins-and-Destiny-of-Imperial-BritainNineteenth-Century-Europe_30710
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cramb, J. A. (John Adam)
+    alias: Cramb, John Adam
+    birthdate: 1862
+    deathdate: 1913
+    gutenberg_agent_id: '34768'
+    url: http://www.gutenberg.org/2009/agents/34768
+    wikipedia: http://en.wikipedia.org/wiki/John_Adam_Cramb
+description: 'Pt. I. The testimony of the past: What is imperialism? The development
+  of the political ideal, The development of the religious ideal. -- pt. II. The destiny
+  of imperial Britain: The war in South Africa, What is war? The vicissitudes of states
+  and empires, The destiny of imperial Britain and the destiny of man.'
+gutenberg_issued: '2009-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30710'
+  lccn: a15000449
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War'
+- !lcsh 'Imperialism'
+- !lcsh 'Great Britain -- Colonies -- Administration -- History -- 19th century'
+- !lcc 'DA'
+title: 'The Origins and Destiny of Imperial Britain
+
+  Nineteenth Century Europe'
+url: http://www.gutenberg.org/ebooks/30710
